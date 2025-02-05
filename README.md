@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋  
 
-<!--
-**11leo72/11leo72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+Hi there! I'm a passionate individual with a strong interest in **AI, firearms, shooting, and horseback riding in the mountains**. I enjoy working with various firearms, including the **Desert Eagle, AK-47, and M4A1**.  
 
-Here are some ideas to get you started:
+## Interests & Skills  
+- 🔫 Firearms & Tactical Training  
+- 🏇 Horseback Riding in the Mountains  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🏹 Precision Shooting & Marksmanship  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch  
+Feel free to connect with me! I'm always open to discussions about **AI, shooting, and military tactics**.  
+
+ 
